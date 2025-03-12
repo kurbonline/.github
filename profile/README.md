@@ -15,7 +15,3 @@ By amalgamating all known resale platforms in one place, and sharing knowledge o
 - **Join the Discord**: [Invite Link](https://discord.gg/jSh7n6ju8H)
 - **Follow us on Socials**: [Instagram](https://www.instagram.com/kurb.online)
 - **Give Feedback**: Open an issue or reach out via Discord!
-
----
-
-Kurb is a platform founded by fashion obsessives for fashion obsessives, with one objective in mind: to illuminate and advance the potential of the fashion resale market. 
