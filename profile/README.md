@@ -1,4 +1,4 @@
-# Kurb.online - ALL FASHION RESALE STORES IN ONE PLACE
+# Kurb - ALL FASHION RESALE STORES IN ONE PLACE
 
 Kurb is a fashion platform made by obsessive clothing enthusiasts for obsessive clothing enthusiasts, with a mission to render the world of designer fashion accessible to all. With more than a decade of experience in the online fashion scene, the platform symbolizes an answer to what our younger selves yearned for: a seamless avenue towards the garments we want, no matter how difficult they are to find.
 
