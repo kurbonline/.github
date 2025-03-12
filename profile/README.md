@@ -1,6 +1,8 @@
 # Kurb.online - ALL FASHION RESALE STORES IN ONE PLACE
 
-Welcome to **Kurb.online**, the ultimate search engine for designer resale! We aggregate listings from over **400 vendors**, making it easier than ever to find the best deals on pre-loved luxury fashion.
+Kurb is a fashion platform made by obsessive clothing enthusiasts for obsessive clothing enthusiasts, with a mission to render the world of designer fashion accessible to all. With more than a decade of experience in the online fashion scene, the platform symbolizes an answer to what our younger selves yearned for: a seamless avenue towards the garments we want, no matter how difficult they are to find.
+
+By amalgamating all known resale platforms in one place, and sharing knowledge on how to navigate both resale and fashion at large, Kurb bridges the gap between you and the treasure trove of resale fashion, no matter who or where you are.
 
 ## 🚀 Features
 - **Comprehensive Search**: Browse designer resale items from hundreds of vendors in one place.
