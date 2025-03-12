@@ -17,8 +17,3 @@ Welcome to **Kurb.online**, the ultimate search engine for designer resale! We a
 ---
 
 Kurb is a platform founded by fashion obsessives for fashion obsessives, with one objective in mind: to illuminate and advance the potential of the fashion resale market. 
-
-
----
-
-Kurb is a platform founded by fashion obsessives for fashion obsessives, with one objective in mind: to illuminate and advance the potential of the fashion resale market. 
